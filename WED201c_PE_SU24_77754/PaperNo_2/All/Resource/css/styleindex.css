@@ -1,0 +1,9 @@
+.content-header li{
+    list-style-type: none;
+}
+.content-header a{
+    text-decoration: none;
+}
+.content-header{
+    display: inline;
+}
